@@ -27,3 +27,16 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+/*Footer*/
+
+.footer-flex {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.footer-item-flex {
+    flex: 0 1 auto;
+    
+}
