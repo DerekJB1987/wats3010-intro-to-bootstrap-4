@@ -27,6 +27,24 @@ body {
   margin-bottom: 30px;
 }
 
+.btn {
+    color: #319b61;
+    border-color: #007bff;
+    background-color: #fff;
+}
+    
+a:link {
+    color: #13CC00;
+}
+a:visited {
+    color: #D000FF;
+}
+a:hover {
+    color: #00FFFC;
+}
+a:active {
+    color: #0000FF;
+}
 /*Footer*/
 
 .footer-flex {
