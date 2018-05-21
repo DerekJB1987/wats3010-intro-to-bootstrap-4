@@ -62,6 +62,7 @@ a:visited {
 }
 a:hover {
     color: #00FFFC;
+    border-radius: 50%;
 }
 a:active {
     color: #0000FF;
