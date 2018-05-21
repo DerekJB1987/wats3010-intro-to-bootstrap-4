@@ -54,7 +54,7 @@ body {
     background-color: #fff;
 }
 
-a:box {
+a:btn {
     transition-property: background, border-radius;
 }
    
