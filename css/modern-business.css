@@ -54,7 +54,7 @@ body {
     background-color: #fff;
 }
 
-a:btn {
+a.btn {
     transition-property: background, border-radius;
     transition-duration: 1s, 2s;
     transition-timing-function: linear, ease-in;
